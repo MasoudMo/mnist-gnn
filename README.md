@@ -1,2 +1,4 @@
 # An Introductory Project for Graph Neural Networks
-See gnn.pdf for instructions.
+
+This project contains theoretical questions as well as a project providing hands-on experience for Graph Neural Networks.
+Please see gnns.pdf for instructions.
